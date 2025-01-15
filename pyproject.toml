@@ -7,6 +7,13 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
+docling = "^2.15.1"
+python-dotenv = "^1.0.1"
+langchain = "^0.3.14"
+langchain-openai = "^0.3.0"
+langgraph = "^0.2.62"
+streamlit = "^1.41.1"
+serpapi = "^0.1.5"
 
 
 [build-system]
